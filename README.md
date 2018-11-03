@@ -9,3 +9,7 @@ Main dependencies used for running the script are:
 
 The script saves frames into the same directory in which it is run and outputs cell coordinate information to the standard output. 
 For model parameters, see the header of the script. 
+
+To run the script use:
+
+python shellard_mode-2018_science.py > output.txt
